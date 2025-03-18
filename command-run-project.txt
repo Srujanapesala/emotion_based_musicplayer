@@ -1,0 +1,7 @@
+cd C:\Users\user\OneDrive\Desktop\emotion-based-music-complete\python-env\emotion-based-music-env\Scripts
+activate.bat
+streamlit run C:\Users\user\OneDrive\Desktop\emotion-based-music-complete\Emotion-Based-Music-main\app.py
+
+
+
+  
