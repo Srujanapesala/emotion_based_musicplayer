@@ -1,7 +1,7 @@
 #EMOTION_BASED_MUSIC_PLAYER
-An intelligent music player that detects users' emotions using facial recognition or sentiment analysis and plays songs that match their mood. This 
-project leverages AI and machine learning techniques to enhance user experience by automating playlist selection based on real-time emotional 
-states. 
+An intelligent music player that detects users' emotions using facial recognition or sentiment analysis and plays songs that match their mood. 
+This project leverages AI and machine learning techniques to enhance user experience by automating playlist selection based on real-time emotional 
+states.
 
 # deepface
 
